@@ -29,7 +29,7 @@ pip install plotly
 
 ## License
 
-Dishit
+Yash shah
 
 **Free Software, Hell Yeah!**
 
